@@ -1,7 +1,7 @@
 # StackDynamic-Profile (A GET Endpoint which returns dynamic data about Qtech.)
 
 A .NET 9 Web API for dynamic user profiles, featuring integration with external APIs (e.g., Cat Facts).  
-GitHub Repository: [https://github.com/rahmantaiwo/Stack-Profile](https://github.com/rahmantaiwo/Stack-Profile)
+GitHub Repository: [https://github.com/rahmantaiwo/StackDynamic-Profile](https://github.com/rahmantaiwo/Stack-Profile)
 
 ## Table of Contents
 
